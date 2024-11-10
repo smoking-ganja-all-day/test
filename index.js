@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Ark Methods On Top", "Discord.gg/ArkMethods"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'dnd', 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
